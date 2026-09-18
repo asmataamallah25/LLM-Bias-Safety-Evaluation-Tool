@@ -27,7 +27,7 @@ Without evaluation, these issues go undetected in production.
 Biased LLMs can:
 - Perpetuate stereotypes in job descriptions
 - Create discriminatory content
-- Harm marginalized communities
+- Harm underrepresented communities
 - Reduce user trust
 
 ### The Solution
